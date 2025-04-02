@@ -34,12 +34,6 @@
 - 🚀 **[Convertidor de archivo pdf a word](https://github.com/jhon690/convertir_pdf_a_word)**:  
     Convierte el archivo pdf a word
 
-## 📊 Estadísticas de GitHub  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon690&layout=compact&theme=dark) 
-
-## 🚀 Actividad en GitHub  
-[![Jhon's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhon690&theme=radical)](https://github.com/jhon690)  
-
 ## 🔥 Contador de visitas  
 ![](https://komarev.com/ghpvc/?username=jhon690&color=green&style=for-the-badge)
 
