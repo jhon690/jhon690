@@ -2,7 +2,7 @@
 
 ## 🛡️ Business Analysis & Process Automation Specialist
 
-Especialista en Automatización de Procesos y Análisis de Datos con 3 años de experiencia en la optimización de operaciones y la reducción de costos. [cite_start]He liderado la transformación de tareas manuales en flujos de trabajo eficientes, implementando soluciones con Python, SQL y n8n[cite: 8, 9].
+Especialista en Automatización de Procesos y Análisis de Datos con 3 años de experiencia en la optimización de operaciones y la reducción de costos. He liderado la transformación de tareas manuales en flujos de trabajo eficientes, implementando soluciones con Python, SQL y n8n.
 
 ## 🛠️ Stack Tecnológico
 
@@ -55,11 +55,11 @@ Especialista en Automatización de Procesos y Análisis de Datos con 3 años de 
     > **Stack Clave:** Python, FastAPI, Google Gemini Vision, Twilio WhatsApp API, ngrok.
 
 - 🚀 **Automatización y Optimización de Procesos**:  
-    [cite_start]Lideré la optimización de procesos clave, logrando reducciones de tiempo de hasta **8 horas a menos de 60 segundos**[cite: 19]. Implementé soluciones con Python y n8n para:
-    * [cite_start]Automatizar la extracción de información y reportes de infraestructura, reduciendo el proceso de 3-6 horas a 30-40 minutos[cite: 23].
-    * [cite_start]Desarrollar automatizaciones para la replicación de sistemas y la obtención de datos, facilitando la eficiencia y la reducción de costos[cite: 24].
-    * [cite_start]Gestionar la infraestructura de dominios y hosting (Spaceship, Porkbun) y facilitar la integración de bases de datos operacionales con **Baserow y Webhooks**[cite: 26].
-    * [cite_start]Logré una optimización del 30% en procesos y una reducción del 20% en costos operativos mediante la automatización con Python[cite: 31].
+    [cite_start]Lideré la optimización de procesos clave, logrando reducciones de tiempo de hasta **8 horas a menos de 60 segundos**. Implementé soluciones con Python y n8n para:
+    * [cite_start]Automatizar la extracción de información y reportes de infraestructura, reduciendo el proceso de 3-6 horas a 30-40 minutos.
+    * [cite_start]Desarrollar automatizaciones para la replicación de sistemas y la obtención de datos, facilitando la eficiencia y la reducción de costos.
+    * [cite_start]Gestionar la infraestructura de dominios y hosting (Spaceship, Porkbun) y facilitar la integración de bases de datos operacionales con **Baserow y Webhooks**.
+    * [cite_start]Logré una optimización del 30% en procesos y una reducción del 20% en costos operativos mediante la automatización con Python.
 
 - 🚀 **[Calculadora](https://github.com/jhon690/calculadora)**:  
     Carculadora con python  
