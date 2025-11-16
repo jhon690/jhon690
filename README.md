@@ -55,11 +55,11 @@ Especialista en Automatización de Procesos y Análisis de Datos con 3 años de 
     > **Stack Clave:** Python, FastAPI, Google Gemini Vision, Twilio WhatsApp API, ngrok.
 
 - 🚀 **Automatización y Optimización de Procesos**:  
-    [cite_start]Lideré la optimización de procesos clave, logrando reducciones de tiempo de hasta **8 horas a menos de 60 segundos**. Implementé soluciones con Python y n8n para:
-    * [cite_start]Automatizar la extracción de información y reportes de infraestructura, reduciendo el proceso de 3-6 horas a 30-40 minutos.
-    * [cite_start]Desarrollar automatizaciones para la replicación de sistemas y la obtención de datos, facilitando la eficiencia y la reducción de costos.
-    * [cite_start]Gestionar la infraestructura de dominios y hosting (Spaceship, Porkbun) y facilitar la integración de bases de datos operacionales con **Baserow y Webhooks**.
-    * [cite_start]Logré una optimización del 30% en procesos y una reducción del 20% en costos operativos mediante la automatización con Python.
+    Lideré la optimización de procesos clave, logrando reducciones de tiempo de hasta **8 horas a menos de 60 segundos**. Implementé soluciones con Python y n8n para:
+    * Automatizar la extracción de información y reportes de infraestructura, reduciendo el proceso de 3-6 horas a 30-40 minutos.
+    * Desarrollar automatizaciones para la replicación de sistemas y la obtención de datos, facilitando la eficiencia y la reducción de costos.
+    * Gestionar la infraestructura de dominios y hosting (Spaceship, Porkbun) y facilitar la integración de bases de datos operacionales con **Baserow y Webhooks**.
+    * Logré una optimización del 30% en procesos y una reducción del 20% en costos operativos mediante la automatización con Python.
 
 - 🚀 **[Calculadora](https://github.com/jhon690/calculadora)**:  
     Carculadora con python  
@@ -78,18 +78,18 @@ Especialista en Automatización de Procesos y Análisis de Datos con 3 años de 
 
 ## 🎓 Certificaciones  
 
-### [cite_start]📌 **LinkedIn / Otros** - 🥇 **Prompt Engineering with Gemini** (LinkedIn, 2025) [cite: 55]
-- [cite_start]🥇 **Business Analysis Foundations** (LinkedIn, 2025) [cite: 45]
-- [cite_start]🥇 **Desafío de programación: Python** (LinkedIn, 2025) [cite: 47]
-- [cite_start]🥇 **Managing Data with Microsoft 365** (LinkedIn, 2025) [cite: 52]
+### 📌 **LinkedIn / Otros** - 🥇 **Prompt Engineering with Gemini** (LinkedIn, 2025)
+- 🥇 **Business Analysis Foundations** (LinkedIn, 2025) 
+- 🥇 **Desafío de programación: Python** (LinkedIn, 2025)
+- 🥇 **Managing Data with Microsoft 365** (LinkedIn, 2025)
 
-### [cite_start]📌 **Platzi** - 🥇 **Python: Entornos Virtuales y Pip** [cite: 48]
-- [cite_start]🥇 **Git y GitHub** [cite: 50]
+### 📌 **Platzi** - 🥇 **Python: Entornos Virtuales y Pip**
+- 🥇 **Git y GitHub**
 - 🥇 **Curso Práctico de Algoritmos**
 - 🥇 **Google Analytics 4**
 - 🥇 **Automatización para marketers**
 - 🥇 **Pensamiento lógico lenguajes de programación**
 
-### [cite_start]📌 **SENA** - 🏅 **Uso de Excel y Access para el Desarrollo de Aplicaciones Administrativas Empresariales** [cite: 53]
+### 📌 **SENA** - 🏅 **Uso de Excel y Access para el Desarrollo de Aplicaciones Administrativas Empresariales**
 - 🏅 **Análisis para el Desarrollo Móvil con App Inventor**
 - 🏅 **Aprendiz Digital**
