@@ -2,7 +2,7 @@
 
 ## 🛡️ Business Analysis & Process Automation Specialist
 
-Especialista en Automatización de Procesos y Análisis de Datos con 2 años de experiencia en la optimización de operaciones y la reducción de costos. [cite_start]He liderado la transformación de tareas manuales en flujos de trabajo eficientes, implementando soluciones con Python, SQL y n8n[cite: 8, 9].
+Especialista en Automatización de Procesos y Análisis de Datos con 3 años de experiencia en la optimización de operaciones y la reducción de costos. [cite_start]He liderado la transformación de tareas manuales en flujos de trabajo eficientes, implementando soluciones con Python, SQL y n8n[cite: 8, 9].
 
 ## 🛠️ Stack Tecnológico
 
