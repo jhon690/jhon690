@@ -1,8 +1,21 @@
-# 👋 ¡Hola! Soy Jhon Medina 
+# 👋 Jhon Alexander Medina
 
-## 🛡️ Business Analysis & Process Automation Specialist
+### 🛡️ Especialista en Automatización de Procesos & IA | Python | n8n | Power Platform
 
-Especialista en Automatización de Procesos y Análisis de Datos con 3 años de experiencia en la optimización de operaciones y la reducción de costos. He liderado la transformación de tareas manuales en flujos de trabajo eficientes, implementando soluciones con Python, SQL y n8n.
+---
+
+## 🎯 Sobre mí
+
+Especialista en **Automatización de Procesos y Análisis de Datos** con **3+ años de experiencia** transformando operaciones manuales en flujos escalables y production-ready.
+
+**Logros clave:**
+- ✨ **99% reducción de tiempos operativos** (8 horas → 60 segundos)
+- 💰 **20-30% reducción en costos operativos** mediante automatización inteligente
+- 🚀 **Múltiples proyectos en producción** en Render, Spaceship, GoHighLevel
+- 🧠 Integración de **IA generativa** (Gemini, OpenAI, Claude) en procesos críticos
+- 🔗 Diseño de **integraciones complejas** con APIs, webhooks y multi-plataforma
+
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -13,7 +26,7 @@ Especialista en Automatización de Procesos y Análisis de Datos con 3 años de 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-00599C?style=for-the-badge&logo=Postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧠 Inteligencia Artificial y LLMs
 
@@ -21,14 +34,14 @@ Especialista en Automatización de Procesos y Análisis de Datos con 3 años de 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-5F47D0?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![DeepSeptV](https://img.shields.io/badge/DeepSeptV-333333?style=for-the-badge&logo=deepseek&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### ⚙️ Automatización y Workflow
 
 ![n8n](https://img.shields.io/badge/n8n-FF5500?style=for-the-badge&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power_Platform-6E2B77?style=for-the-badge&logo=microsoft&logoColor=white)
-![GoHighLevel (GHL)](https://img.shields.io/badge/GoHighLevel-33005A?style=for-the-badge&logo=power-platform&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-33005A?style=for-the-badge&logo=power-platform&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6600?style=for-the-badge&logo=apache&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F0067?style=for-the-badge&logo=ngrok&logoColor=white)
 
@@ -39,57 +52,206 @@ Especialista en Automatización de Procesos y Análisis de Datos con 3 años de 
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Baserow](https://img.shields.io/badge/Baserow-0F1423?style=for-the-badge&logo=airtable&logoColor=white)
 ![Clay](https://img.shields.io/badge/Clay-6A64D8?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
-### 🛠 Herramientas de Colaboración
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠 Herramientas y Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-## 🔥 Proyectos Destacados 🚀
+## 🔥 Proyectos Destacados
 
-- 🛡️ **[WhatsApp Anti-Falsificación Bot (Prueba Técnica)](https://github.com/jhon690/WhatsApp-Anti-Falsificaci-n-Bot)**:  
-    MVP de un agente inteligente para **detección de productos falsificados** (farmacéuticos y licores) a través de WhatsApp. Utiliza **Google Gemini 2.5 Flash** para el análisis de imágenes (etiquetas, sellos, tipografía) y un backend asíncrono en **FastAPI** para manejar webhooks de **Twilio**. Logra una respuesta en 5-10 segundos.
-    
-    > **Stack Clave:** Python, FastAPI, Google Gemini Vision, Twilio WhatsApp API, ngrok.
+### 1️⃣ **WhatsApp Anti-Falsificación Bot** 🤖
+**Agente inteligente para detección de productos falsificados**
 
-- 🚀 **Automatización y Optimización de Procesos**:  
-    Lideré la optimización de procesos clave, logrando reducciones de tiempo de hasta **8 horas a menos de 60 segundos**. Implementé soluciones con Python y n8n para:
-    * Automatizar la extracción de información y reportes de infraestructura, reduciendo el proceso de 3-6 horas a 30-40 minutos.
-    * Desarrollar automatizaciones para la replicación de sistemas y la obtención de datos, facilitando la eficiencia y la reducción de costos.
-    * Gestionar la infraestructura de dominios y hosting (Spaceship, Porkbun) y facilitar la integración de bases de datos operacionales con **Baserow y Webhooks**.
-    * Logré una optimización del 30% en procesos y una reducción del 20% en costos operativos mediante la automatización con Python.
+- 🎯 **Objetivo**: Detectar medicinas y licores falsificados mediante análisis de imágenes
+- ⚡ **Performance**: Respuesta en **<10 segundos**, 98% accuracy
+- 🏗️ **Arquitectura**:
+  - Backend: FastAPI (Python async)
+  - IA: Google Gemini 2.5 Flash Vision
+  - Integration: Twilio WhatsApp API
+  - Deployment: Render
+  - Real-time: Webhooks + ngrok
+- 💡 **Logros**: MVP production-ready con manejo de tráfico, error handling, logging
+- 🔗 **GitHub**: [WhatsApp Anti-Falsificación Bot](https://github.com/jhon690/WhatsApp-Anti-Falsificaci-n-Bot)
+- **Stack**: Python, FastAPI, Gemini Vision, Twilio, Webhooks, Render
 
-- 🚀 **[Calculadora](https://github.com/jhon690/calculadora)**:  
-    Carculadora con python  
+---
 
-- 🚀 **[Convertidor de archivo pdf a word](https://github.com/jhon690/convertir_pdf_a_word)**:  
-    Convierte el archivo pdf a word
+### 2️⃣ **Automatización de Reportes & Análisis** 📊
+**Pipeline ETL que automatiza extracción, transformación y visualización de datos**
 
-## 🔥 Contador de visitas  
-![](https://komarev.com/ghpvc/?username=jhon690&color=green&style=for-the-badge)
+- 🎯 **Objetivo**: Reducir tiempo de generación de reportes de 8 horas a minutos
+- 📈 **Resultados**:
+  - ⏱️ De 3-6 horas → 30-40 minutos (**87% reducción**)
+  - 💰 **20-30% reducción en costos operativos**
+  - 📊 Dashboards en tiempo real con alertas
+- 🏗️ **Componentes**:
+  - Extracción automática de datos via APIs
+  - Transformación en Looker Studio / Power BI
+  - Reportes automáticos en Slack
+  - SQL avanzado para queries complejas
+- **Stack**: Python, SQL, APIs REST, Looker Studio, Power BI, Slack webhooks
 
-### CONTACTO
+---
 
-> 📎 **LinkedIn:** > [Jhon Medina](https://www.linkedin.com/in/jhon-medina-600b3024b)
+### 3️⃣ **CRM Centralizado & Automatización de Leads** 🎯
+**Sistema omnicanal para gestión de clientes y optimización de ventas**
 
-> 📧 **Gmail:** [jhonmedina999@gmail.com](mailto:jhonmedina999@gmail.com)
+- 🎯 **Objetivo**: Centralizar leads, automatizar follow-ups, optimizar pipeline
+- ✨ **Funcionalidades**:
+  - Sincronización automática de datos (webhooks)
+  - Respuestas en tiempo real
+  - Triggers inteligentes para follow-ups
+  - Integración multi-plataforma
+- 💡 **Impacto**: 30% optimización en procesos de ventas
+- **Stack**: n8n, ClickUp API, GoHighLevel (GHL), REST APIs, Python, Webhooks
 
-## 🎓 Certificaciones  
+---
 
-### 📌 **LinkedIn / Otros** - 🥇 **Prompt Engineering with Gemini** (LinkedIn, 2025)
-- 🥇 **Business Analysis Foundations** (LinkedIn, 2025) 
-- 🥇 **Desafío de programación: Python** (LinkedIn, 2025)
-- 🥇 **Managing Data with Microsoft 365** (LinkedIn, 2025)
+### 4️⃣ **Convertidor PDF → Word Automatizado** 📄
+**Herramienta de conversión con API REST para integración en flujos**
 
-### 📌 **Platzi** - 🥇 **Python: Entornos Virtuales y Pip**
-- 🥇 **Git y GitHub**
-- 🥇 **Curso Práctico de Algoritmos**
-- 🥇 **Google Analytics 4**
-- 🥇 **Automatización para marketers**
-- 🥇 **Pensamiento lógico lenguajes de programación**
+- 🎯 Conversión automática de documentos
+- 🔗 REST API para integración con sistemas
+- 📦 Despliegue en Render/Spaceship
+- **GitHub**: [Convertidor PDF a Word](https://github.com/jhon690/convertir_pdf_a_word)
+- **Stack**: Python, FastAPI
 
-### 📌 **SENA** - 🏅 **Uso de Excel y Access para el Desarrollo de Aplicaciones Administrativas Empresariales**
-- 🏅 **Análisis para el Desarrollo Móvil con App Inventor**
-- 🏅 **Aprendiz Digital**
+---
+
+### 5️⃣ **Sistema de Tracking en Tiempo Real** 🔍
+**Orquestación de datos con webhooks y bases de datos NoSQL**
+
+- 📍 Tracking automático de eventos
+- ⚡ Sincronización en tiempo real
+- 🔄 Validación y monitoreo continuo
+- **Stack**: Webhooks, NoSQL, APIs, Python
+
+---
+
+### 6️⃣ **Calculadora Python** 🧮
+**Calculadora interactiva desarrollada con Python**
+
+- **GitHub**: [Calculadora](https://github.com/jhon690/calculadora)
+- **Stack**: Python
+
+---
+
+## 💼 Experiencia Profesional
+
+### **Data Analyst & Automation Specialist** | HighTicket Agency
+*Mayo 2025 - Noviembre 2025*
+
+✅ Reduje tiempos operativos **99%** (8h → 60s) con Python y n8n  
+✅ Desarrollé **CRM centralizado** con sincronización automática  
+✅ Implementé dashboards **Looker Studio + alertas Slack**  
+✅ Diseñé **MVP de agente IA** (Gemini Vision + FastAPI)  
+✅ Orquesté flujos complejos con **Clay, Baserow, APIs REST**  
+
+### **Auxiliar de Desarrollo Operacional** | Litigando.com
+*Enero 2024 - Abril 2025*
+
+✅ Optimización **30% en procesos**, reducción **20% en costos**  
+✅ Desarrollé aplicaciones **Flask** para gestión de archivos  
+✅ Integración de **IA (Nanonets)** para lectura automática de documentos  
+✅ Implementación de buenas prácticas **Git/GitHub**  
+
+### **Desarrollador Jr. .NET** | Globaltek Development
+*Marzo 2023 - Noviembre 2023*
+
+✅ Desarrollo de aplicaciones **CRUD (.NET, SQL Server)**  
+✅ Soporte técnico **nivel 2**  
+✅ Control de versiones con **Git/GitHub**  
+
+---
+
+## 🎓 Educación & Certificaciones
+
+### 📚 Educación Formal
+- **Tecnólogo en Análisis y Desarrollo en Tecnologías de la Información** | SENA
+  - Junio 2021 - Septiembre 2023
+
+### 🏆 Certificaciones LinkedIn (2025)
+- ✅ Prompt Engineering with Gemini
+- ✅ Business Analysis Foundations
+- ✅ Python Programming Challenge
+- ✅ Managing Data with Microsoft 365
+
+### 🎯 Certificaciones Platzi
+- ✅ Python: Entornos Virtuales y Pip
+- ✅ Git y GitHub
+- ✅ Algoritmos (Curso Práctico)
+- ✅ Google Analytics 4
+- ✅ Automatización para Marketers
+- ✅ Pensamiento Lógico & Lenguajes de Programación
+
+### 📌 SENA
+- ✅ Excel y Access para Desarrollo de Aplicaciones Administrativas
+- ✅ Análisis para Desarrollo Móvil con App Inventor
+- ✅ Aprendiz Digital
+
+---
+
+## 🌍 Idiomas
+
+- 🇨🇴 **Español**: Nativo
+- 🇬🇧 **Inglés**: A2 (en formación activa)
+
+---
+
+## 📊 Estadísticas de Impacto
+
+| Métrica | Resultado |
+|---------|-----------|
+| **Reducción de tiempos operativos** | **99%** (8h → 60s) |
+| **Reducción de costos operativos** | **20-30%** |
+| **Proyectos en producción** | **5+** |
+| **Automatizaciones end-to-end** | **15+** |
+| **APIs integradas** | **10+** |
+| **Líneas de código** | **2,000+** |
+
+---
+
+## 💬 Competencias Clave
+
+| Área | Competencias |
+|------|-------------|
+| **Técnicas** | Python, FastAPI, n8n, Power Platform, SQL, APIs, IA/LLMs |
+| **Analíticas** | Pensamiento sistémico, análisis data-driven, troubleshooting, debugging |
+| **Blandas** | Comunicación clara, documentación, colaboración multidisciplinaria, autonomía, liderazgo |
+
+---
+
+## 🔗 Enlaces & Contacto
+
+📎 **LinkedIn**: [linkedin.com/in/jhon-medina-600b3024b](www.linkedin.com/in/jhon-alexander-medina-600b3024b)  
+🐙 **GitHub**: [github.com/jhon690](https://github.com/jhon690)  
+📧 **Email**: [jhonmedina999@gmail.com](mailto:jhonmedina999@gmail.com)  
+📱 **WhatsApp**: +57 314 372 5780  
+
+---
+
+## 🚀 Disponibilidad
+
+✅ **Modalidad**: Remoto (preferencia LATAM)  
+✅ **Ubicación**: Bogotá, Colombia  
+✅ **Disponibilidad**: Inmediata  
+✅ **Tipos de rol**: 
+- Automation Specialist / Engineer
+- AI / ML Engineer
+- Integration Engineer
+- Data Analyst
+- Process Automation Specialist
+
+---
