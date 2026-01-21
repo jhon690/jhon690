@@ -56,6 +56,7 @@ Python/FastAPI         → Backend, validaciones, APIs asincrónicas
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -246,6 +247,14 @@ Predicción de categoría
          ↓
 Output (Ticket clasificado automáticamente)
 ```
+
+### 7️⃣ Sistema Respuestas AI Leads
+n8n + GPT-5 + PostgreSQL + Lovable
+→ 100% respuestas personalizadas leads
+
+### 8️⃣ MCP Claude Análisis  
+Python + MCP Server
+→ 54 clientes simultáneos, 40% ↓ tiempo
 
 **Componentes:**
 - **train.py**: Entrenamiento del modelo con dataset histórico etiquetado
