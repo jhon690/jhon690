@@ -247,15 +247,6 @@ Predicción de categoría
          ↓
 Output (Ticket clasificado automáticamente)
 ```
-
-### 7️⃣ Sistema Respuestas AI Leads
-n8n + GPT-5 + PostgreSQL + Lovable
-→ 100% respuestas personalizadas leads
-
-### 8️⃣ MCP Claude Análisis  
-Python + MCP Server
-→ 54 clientes simultáneos, 40% ↓ tiempo
-
 **Componentes:**
 - **train.py**: Entrenamiento del modelo con dataset histórico etiquetado
 - **predict.py**: Clasificación en tiempo real de nuevos tickets
@@ -275,6 +266,14 @@ Python + MCP Server
 - 💡 Identificación de patrones en tickets
 
 **GitHub:** [ml_ticket_classifier](https://github.com/jhon690/ml_ticket_classifier)
+
+### 7️⃣ Sistema Respuestas AI Leads
+n8n + GPT-5 + PostgreSQL + Lovable
+→ 100% respuestas personalizadas leads
+
+### 8️⃣ MCP Claude Análisis  
+Python + MCP Server
+→ 54 clientes simultáneos, 40% ↓ tiempo
 
 ---
 
