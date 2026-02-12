@@ -18,7 +18,7 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 ## 🛠️ Stack Tecnológico Detallado
 
 <details>
-<summary><b>🤖 Inteligencia Artificial & LLMs</b></summary>
+<summary><b>🤖 Inteligencia Artificial & LLMs (Click para expandir)</b></summary>
 <br>
 <table>
   <tr>
@@ -38,7 +38,7 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 </details>
 
 <details>
-<summary><b>🔀 Automatización & Orquestación</b></summary>
+<summary><b>🔀 Automatización & Orquestación (Click para expandir)</b></summary>
 <br>
 <table>
   <tr>
@@ -58,7 +58,7 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 </details>
 
 <details>
-<summary><b>📊 Data Engineering & Analytics</b></summary>
+<summary><b>📊 Data Engineering & Analytics (Click para expandir)</b></summary>
 <br>
 <table>
   <tr>
