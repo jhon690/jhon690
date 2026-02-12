@@ -23,7 +23,12 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 <table>
   <tr>
     <td><b>Modelos/Frameworks</b></td>
-    <td>Google Gemini (Vision), Claude MCP, OpenAI, LangChain, scikit-learn</td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Especialidad</b></td>
@@ -38,7 +43,12 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 <table>
   <tr>
     <td><b>Core</b></td>
-    <td>n8n (Expert), Python (FastAPI/Flask), Webhooks, APIs REST</td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-FF5500?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Plataformas</b></td>
@@ -53,11 +63,15 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 <table>
   <tr>
     <td><b>ETL & Scraping</b></td>
-    <td>Python (Pandas, BeautifulSoup, Selenium), SQL Server</td>
+    <td>Pandas, BeautifulSoup, Selenium, SQL Server</td>
   </tr>
   <tr>
     <td><b>Visualización</b></td>
-    <td>Looker Studio, Power BI, Baserow, Airtable</td>
+    <td>
+      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+    </td>
   </tr>
 </table>
 </details>
@@ -67,7 +81,7 @@ Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoqu
 ## 🔥 Proyectos en Producción (Showcase)
 
 ### 🤖 [VisionGuard API](https://github.com/jhon690/WhatsApp-Anti-Falsificaci-n-Bot)
-> **Problema:** Fraude en documentos físicos.  
+> **Problema:** Fraude en documentos físicos y productos.  
 > **Solución:** Bot de WhatsApp con Gemini Vision que analiza imágenes en <10s.  
 > **Resultado:** 98% de precisión en detección de anomalías.
 
