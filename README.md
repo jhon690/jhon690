@@ -1,124 +1,76 @@
-# 👋 Hola, soy Jhon Alexander Medina
-### AI Automation Engineer & Business Analyst 🚀
+# 👋 Jhon Alexander Medina
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhon690&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+**AI Automation Engineer & Business Analyst**  
+n8n · Python/FastAPI · AI Agents (LLMs) · ETL & Scraping
 
 ---
 
-## 🎯 Mi Propuesta de Valor
-Transformo operaciones manuales en sistemas inteligentes y escalables. Mi enfoque no es solo el código, sino el **impacto financiero**:
-- ⚡ **99% reducción de tiempos** (8h a 60s) en flujos críticos.
-- 💰 **20-30% ahorro en costos operativos** mediante IA.
-- 🏗️ **Arquitecto de Sistemas Propios** como LeadEngine AI.
+## 🚀 Qué hago
+
+Transformo operaciones manuales en sistemas automatizados, escalables y **production‑ready**.
+
+- 99% reducción de tiempos (8h → 60s) con n8n + Python
+- 400+ leads/mes automatizados (CRM omnicanal + IA)
+- 10+ integraciones API complejas (GHL, ClickUp, Salesforce, Microsoft 365, Baserow, Clay)
+- IA generativa y ML aplicados a casos reales (Gemini, OpenAI, scikit‑learn)
 
 ---
 
-## 🛠️ Stack Tecnológico Detallado
+## 🧠 Sistemas Propios (Top Repos)
 
-<details>
-<summary><b>🤖 Inteligencia Artificial & LLMs (Click para expandir)</b></summary>
-<br>
-<table>
-  <tr>
-    <td><b>Modelos/Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Especialidad</b></td>
-    <td>Prompt Engineering, Agentes Autónomos, Clasificación de Datos con ML</td>
-  </tr>
-</table>
-</details>
+- **LeadEngine AI** – Prospección outbound automatizada  
+  `Python + n8n + Apollo/Clay + LLMs`  
+  → Generación y calificación de +400 leads/mes para Silverlight, 0 prospección manual.[file:84][file:32]
 
-<details>
-<summary><b>🔀 Automatización & Orquestación (Click para expandir)</b></summary>
-<br>
-<table>
-  <tr>
-    <td><b>Core</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/n8n-FF5500?style=flat-square&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Plataformas</b></td>
-    <td>GoHighLevel, ClickUp, Twilio, Clay, Make.com, Power Automate</td>
-  </tr>
-</table>
-</details>
+- **VisionGuard API** – Detección de falsificación en tiempo real  
+  `FastAPI + Gemini Vision + Twilio`  
+  → 98% precisión en validación de documentos, 80% menos riesgo de fraude.[file:84][file:32]
 
-<details>
-<summary><b>📊 Data Engineering & Analytics (Click para expandir)</b></summary>
-<br>
-<table>
-  <tr>
-    <td><b>ETL & Scraping</b></td>
-    <td>Pandas, BeautifulSoup, Selenium, SQL Server</td>
-  </tr>
-  <tr>
-    <td><b>Visualización</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
-    </td>
-  </tr>
-</table>
-</details>
+- **CRM Omnicanal & Leads**  
+  `n8n + OpenAI + ClickUp + Microsoft 365 + Baserow + Clay`  
+  → 30% menos tiempo de respuesta, 0 leads perdidos, 400+ leads/mes.[file:32]
 
 ---
 
-## 🔥 Proyectos en Producción (Showcase)
+## 🔀 Stack de Automatización & Datos
 
-### 🤖 [VisionGuard API](https://github.com/jhon690/WhatsApp-Anti-Falsificaci-n-Bot)
-> **Problema:** Fraude en documentos físicos y productos.  
-> **Solución:** Bot de WhatsApp con Gemini Vision que analiza imágenes en <10s.  
-> **Resultado:** 98% de precisión en detección de anomalías.
-
-### 📈 [LeadEngine AI](https://github.com/jhon690)
-> **Problema:** Prospección manual lenta y genérica.  
-> **Solución:** Workflow de n8n + Python que extrae, califica e hiper-personaliza mensajes.  
-> **Resultado:** +400 leads/mes gestionados de forma autónoma.
-
-### 🏷️ [ML Ticket Classifier](https://github.com/jhon690/ml_ticket_classifier)
-> **Problema:** Cuellos de botella en soporte técnico.  
-> **Solución:** Modelo de ML (TF-IDF) para clasificación multiclase.  
-> **Resultado:** Automatización del routing de tickets con 82% accuracy.
+- **Orquestación:** n8n (expert), Make, Power Automate  
+- **Backend & APIs:** Python, FastAPI, Flask, Web Scraping, ETL, Webhooks, REST  
+- **IA & LLMs:** Gemini Vision, OpenAI, Claude MCP, LangChain, scikit‑learn  
+- **Growth & CRM:** Apollo.io, GoHighLevel, Clay, 2Chat, Salesforce, ClickUp  
+- **Data & BI:** SQL, Power BI, Looker Studio, Baserow, Airtable, Supabase  
+- **Infra:** Docker (n8n), Render, Spaceship, GitHub Actions (básico)
 
 ---
 
-## 📈 Actividad y Lenguajes
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon690&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 📂 Proyectos destacados (repos a fijar)
+
+1. **WhatsApp Anti‑Falsificación Bot**  
+   `Python · FastAPI · Gemini Vision · Twilio`  
+   Autenticación de productos por imagen, respuesta <10s, 98% accuracy.[file:32]
+
+2. **ML Ticket Classifier**  
+   `Python · scikit‑learn · NLP`  
+   Clasificación automática de tickets, 70% menos tiempo de categorización.[file:32]
+
+3. **ETL Bison → Azure**  
+   `Python · APIs · Azure · Excel`  
+   94% optimización de generación de reportes (8h → 5min).[file:32]
+
+4. **Reportes de Campañas & KPIs**  
+   `n8n · Baserow · Outlook · Teams`  
+   Reportes diarios automáticos, 5h/semana ahorradas.[file:32]
 
 ---
 
-## 🗺️ Roadmap / En Aprendizaje
-- [ ] **Apollo.io Integration:** Para escalar LeadEngine AI a bases de datos globales.
-- [ ] **DeepSeek & Llama 3:** Explorando modelos locales para privacidad de datos.
-- [ ] **Advanced Docker:** Orquestación de contenedores para microservicios de IA.
+## 💼 Experiencia breve
+
+- **HighTicket Agency – Data Analyst & Automation Specialist**  
+  99% optimización procesos core, CRM omnicanal, dashboards en tiempo real, agentes IA (Claude MCP, Gemini Vision).[file:84]
+
+- **Litigando.com – Auxiliar de Desarrollo**  
+  Scraping legal avanzado, automatización masiva de PDFs con IA (Nanonets).[file:84]
 
 ---
 
-## 🤝 Conectemos
-¿Tienes un proceso que consume mucho tiempo o datos que no sabes cómo explotar? **Hagámoslo automático.**
-
-- 💼 **LinkedIn:** [/in/jhon-alexander-medina-600b3024b](https://www.linkedin.com/in/jhon-alexander-medina-600b3024b)
-- 💬 **WhatsApp:** [+57 314 372 5780](https://wa.me/573143725780)
-- 📧 **Email:** jhonmedina999@gmail.com
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhon690&color=blue" alt="Views" />
-</p>
+📎 [LinkedIn](https://www.linkedin.com/in/jhon-alexander-medina-600b3024b) · 🐙 [Repos principales](https://github.com/jhon690?tab=repositories)
