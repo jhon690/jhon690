@@ -20,11 +20,6 @@ Transformo operaciones manuales en sistemas automatizados, escalables y **produc
 - **Catálogo Digital B2B — Sector Cosméticos**  
   `React + Supabase + Vercel`  
   → Catálogo con +60 productos, panel admin completo, pedidos por WhatsApp, seguridad RLS auditada.  
-  → Live: [true-lover.vercel.app](https://true-lover.vercel.app)
-
-- **VisionGuard API** — Detección de falsificación en tiempo real  
-  `FastAPI + Gemini Vision`  
-  → 98% precisión en validación de documentos, 80% menos riesgo de fraude operativo.
 
 - **Portafolio con Asistente IA**  
   `HTML + JavaScript + Groq API + Vercel Edge Functions`  
